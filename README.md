@@ -1,5 +1,6 @@
 - Hi  everyone!
 🔭 I´m an aspirant to become a future professional in cyber security. I´m so excited to be part of this field. My commitment as a future security analyst is to protect the organization's network, data, and people who are valuable assets to the public, private, and government.    
+
 🏋️ My  strengths:
 
 1- I´m very calm, diligent, and logical personally focused on finding the clue and giving the solution. For example, I  will  analyze  the breaches   without  causing panic  in the organization, including  starting a meticulous investigation about  the  threat  actors that  sent the attack.
